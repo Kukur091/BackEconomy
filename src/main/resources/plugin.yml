@@ -1,0 +1,10 @@
+name: BackEconomy
+version: '1.0-SNAPSHOT'
+main: fr.kukur.backEconomy.Main
+api-version: '1.21'
+depend: [Vault]
+commands:
+  back:
+    description: back to your last death position
+    usage: /<command>
+    permission: fr.kukur.back

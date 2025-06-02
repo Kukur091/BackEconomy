@@ -1,0 +1,3 @@
+price: 100
+success-message: 'Vous êtes revenu au lieu de votre denière mort contre 100$'
+error-message: "/back impossible, pas assez d'argent ou pas de mort detecté"
