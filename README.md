@@ -15,7 +15,7 @@ Seamlessly integrates with Vault and popular economy plugins for a smooth, hassl
 ## 🚀 Features
 
 - Buy a teleportation to their last death position with configurable pricing  
-- Fully configurable messages and permissions  
+- Fully configurable messages 
 - Supports Vault for economy integration    
 - Compatible with Minecraft 1.21.x and above
 
