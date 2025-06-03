@@ -1,6 +1,6 @@
 # BackEconomy
 
-[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.x-green?style=for-the-badge)](https://minecraft.net) 
+[![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.x-green?style=for-the-badge)](https://minecraft.net) 
 [![Java Version](https://img.shields.io/badge/Java-21-blue?style=for-the-badge)](https://www.java.com/en/) 
 [![Build Status](https://img.shields.io/github/actions/workflow/status/Kukur091/BackEconomy/maven.yml?branch=main&style=for-the-badge)](https://github.com/Kukur091/BackEconomy/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
